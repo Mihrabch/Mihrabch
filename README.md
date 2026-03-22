@@ -1,6 +1,6 @@
 # Hi, I'm Mihrab 👋
 
-**Data Scientist · ML Researcher · Public Health Analytics**  
+**Data Scientist · Applied Mathematics · Public Health Analytics**  
 PhD, Applied Mathematics · Virginia Tech (Visiting Assistant Professor)  
 📍 Blacksburg, VA · Open to Remote / Hybrid roles
 
@@ -8,7 +8,7 @@ PhD, Applied Mathematics · Virginia Tech (Visiting Assistant Professor)
 
 ## 🧠 What I Do
 
-I build **machine learning pipelines and predictive models on large, messy, real-world datasets** — the kind where naive accuracy is meaningless and you have to earn every point of F1.
+I build **machine learning pipelines and predictive models on large, messy, real-world datasets** — the kind where naive accuracy is meaningless.
 
 My work spans the full data lifecycle:
 - Raw, imbalanced survey/clinical data → production-ready ML models
@@ -16,7 +16,7 @@ My work spans the full data lifecycle:
 - EHR records → resource allocation decisions
 - Geospatial sparse data → Bayesian spatial models
 
-I've done this at **440k+ record scale** using Python, R, SQL, and AWS — with hyperparameter search run on **High Performance Computing (HPC)** clusters.
+I've done this at **440k+ record scale** using Python, R, and SQL — with hyperparameter search run on **High Performance Computing (HPC)** clusters.
 
 ---
 
@@ -26,7 +26,7 @@ I've done this at **440k+ record scale** using Python, R, SQL, and AWS — with 
 |------|-------|
 | **Languages** | Python · R · SQL · MATLAB · FORTRAN |
 | **ML & Modeling** | Scikit-learn · XGBoost · TensorFlow/PyTorch · SMOTE/ENN · Random Forest · Voting Ensembles |
-| **Stats & Forecasting** | ARIMA · Bayesian INLA · Spatial modeling · Time-series · Regression |
+| **Stats & Forecasting** | ARIMA · Spatial modeling · Time-series · Regression |
 | **Data Engineering** | Pandas · NumPy · ETL pipelines · MongoDB · Imbalanced-learn |
 | **Visualization** | ggplot2 · Tableau · Power BI · Matplotlib · Seaborn |
 | **NLP / AI** | Hugging Face · BERT · LLM APIs |
