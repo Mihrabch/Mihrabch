@@ -42,6 +42,7 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 
 - 440k+ CDC BRFSS records · severe class imbalance (86:14 ratio)
 - Compared ENN, SMOTE, SMOTE ENN, SMOTE-TOMEK augmentation strategies systematically
+- Models: Logistic Regression, Random Forest, Gradient Boosting, AdaBoost
 - Hyperparameter grid search on TTU High Performance Computing cluster
 - Best model: ENN + Gradient Boosting — Recall 71.7%, AUC 0.791 (~14% recall improvement over baseline)
 - Ensemble (Voting Classifier) with ENN further stabilized performance at Recall 71.4%, AUC 0.789
@@ -54,6 +55,8 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 > **Accepted · Epidemics Special Issue ‘AI for ID modeling’, 2026, Elsevier **
 
 - SARS-CoV-2 RNA data from 6 treatment plants · 43 ZIP codes · South Carolina
+- Models: Random Forest Regressor, Poisson Regression (statsmodels)
+- Hyperparameter tuning via HalvingGridSearchCV
 - Discovered 7–21 day predictive lag between wastewater signal and hospitalizations
 - Forecast Accuracy	90.80% (WWTP) · 77.27% (ZIP code) at 14-day ahead
 - `Python` `R` `ML Regressors` `Time-Series`
