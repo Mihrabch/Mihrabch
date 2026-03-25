@@ -8,13 +8,13 @@ PhD, Applied Mathematics · Virginia Tech (Visiting Assistant Professor)
 
 ## 🧠 What I Do
 
-I build **machine learning pipelines and predictive models on large, messy, real-world datasets** — the kind where naive accuracy is meaningless.
+I build **machine learning pipelines and predictive models on large, messy, real-world datasets**.
 
 My work spans the full data lifecycle:
-- Raw, imbalanced survey/clinical data → production-ready ML models
-- Wastewater signals → localized hospitalization forecasts
-- EHR records → resource allocation decisions
-- Geospatial sparse data → Bayesian spatial models
+- Raw, imbalanced data → production-ready ML models
+- Experimental Modeler
+- Optimization
+- Spatial Analysis
 
 I've done this at **440k+ record scale** using Python, R, and SQL — with hyperparameter search run on **High Performance Computing (HPC)** clusters.
 
@@ -73,10 +73,8 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 
 ## 📄 Selected Publications
 
-1. **Chowdhury M.M. et al.** Fungal pathogen transmission dynamics in North American salamanders. *Ecological Modelling, Elsevier, 2025.*
-2. **Chowdhury M.M., Ayon R.S., Hossain M.S.** ML & Data Augmentation for Diabetes Diagnosis on Imbalanced BRFSS. *Healthcare Analytics, Elsevier, 2024.*
-3. **Chowdhury M.M. et al.** SARS-CoV-2 Variant Mutations & Vaccination Rates in Epidemic Models. *Infectious Disease Modelling, Elsevier, 2022.*
-4. **Islam R., ..., Chowdhury M.M. et al.** Evaluation of the US COVID-19 Vaccine Allocation Strategy. *PLoS ONE.*
+1. **Chowdhury M.M., Ayon R.S., Hossain M.S.** ML & Data Augmentation for Diabetes Diagnosis on Imbalanced BRFSS. *Healthcare Analytics, Elsevier, 2024.*
+2. **1. **Chowdhury M.M. et al.** Fungal pathogen transmission dynamics in North American salamanders. *Ecological Modelling, Elsevier, 2025.**
 
 📚 [Full list on Google Scholar](https://scholar.google.com/citations?user=ZbVWu8wAAAAJ&hl=en)
 
