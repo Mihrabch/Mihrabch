@@ -1,6 +1,6 @@
 # Hi, I'm Mihrab 👋
 
-**Data Scientist · Applied Mathematics · Public Health Analytics**  
+**Data Scientist · Applied Mathematics **  
 PhD, Applied Mathematics · Virginia Tech (Visiting Assistant Professor)  
 📍 Blacksburg, VA · Open to Remote / Hybrid roles
 
