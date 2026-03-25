@@ -41,20 +41,22 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 > **Published · Healthcare Analytics, Elsevier 2024**
 
 - 440k+ CDC BRFSS records · severe class imbalance (86:14 ratio)
-- Compared ENN, SMOTE, BorderlineSMOTE augmentation strategies systematically
+- Compared ENN, SMOTE, SMOTE ENN, SMOTE-TOMEK augmentation strategies systematically
 - Hyperparameter grid search on TTU High Performance Computing cluster
-- Best model: Voting Ensemble (LR + RF + GBM) → **ROC-AUC 0.87 · F1 0.71**
+- Best model: ENN + Gradient Boosting — Recall 71.7%, AUC 0.791 (~14% recall improvement over baseline)
+- Ensemble (Voting Classifier) with ENN further stabilized performance at Recall 71.4%, AUC 0.789
+- Key risk factors identified: Age, BMI, and Blood Pressure — consistent with clinical literature
 - `Python` `Scikit-learn` `Imbalanced-learn` `XGBoost` `HPC`
 
 ---
 
-### 🦠 Wastewater COVID-19 Hospitalization Forecasting
-> **Under Review · Elsevier**
+### 🦠 Wastewater COVID-19 Hospitalization Forecasting Using Machine Learning
+> **Accepted · Epidemics Special Issue ‘AI for ID modeling’, 2026, Elsevier **
 
 - SARS-CoV-2 RNA data from 6 treatment plants · 43 ZIP codes · South Carolina
 - Discovered 7–21 day predictive lag between wastewater signal and hospitalizations
-- Reduced forecast error by **18%** vs baseline
-- `Python` `R` `ARIMA` `ML Regressors` `Time-Series`
+- Forecast Accuracy	90.80% (WWTP) · 77.27% (ZIP code) at 14-day ahead
+- `Python` `R` `ML Regressors` `Time-Series`
 
 ---
 
