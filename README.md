@@ -53,7 +53,7 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 
 ---
 
-### 🦠 Wastewater COVID-19 Hospitalization Forecasting Using Machine Learning
+### 🦠 [Wastewater COVID-19 Hospitalization Forecasting Using Machine Learning](https://github.com/Mihrabch/EndToEnd-Wastewater-Surveillance-ML-Pipeline-for-COVID-19-Hospitalization-Forecasting)
 > **Accepted · Epidemics Special Issue ‘AI for ID modeling’, 2026, Elsevier **
 
 - SARS-CoV-2 RNA data from 6 treatment plants · 43 ZIP codes · South Carolina
@@ -65,17 +65,26 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 
 ---
 
-### 🗺️ NYC Restaurant Inspection Risk Analytics
-- 200k+ health inspection records · violation risk prediction · **82% accuracy**
-- Cluster-based feature engineering for neighborhood-level risk patterns
+### 🗺️ [NYC Restaurant Data Analytics](https://github.com/Mihrabch/EndToEnd-NYC-FoodHub-EDA-to-Business-Insights)
+- Analyzed large-scale delivery data to identify operational gaps and actionable strategies for improving customer experience and efficiency.
+- Ratings: 38.8% unrated orders → introduce post-delivery nudges to improve feedback coverage
+- Weekend demand: Demand doubles while delivery time worsens by ~6 minutes → optimize staffing
+- Flag orders likely to exceed 60 minutes at placement using prep-time estimates
+- Promotions: Expand to mid-tier cuisines (Mexican, Indian); highlight affordable options (Korean, Vietnamese)
+- Streamline prep for time-intensive cuisines (e.g., Thai); promote quick-prep items during peak hours
+- Explore dynamic weekend pricing for high-demand cuisines to improve margins
 - `Python` `Classification` `Clustering`
 
 ---
 
-### 🚲 Urban Cyclist Demand Modeling
-- 300k+ bike-share trip records · demand forecasting · **~85% accuracy**
-- Behavioral segmentation and seasonality decomposition
-- `Python` `R` `Time-Series` `Segmentation`
+### 🚲 [Urban Cyclist Demand Modeling](https://github.com/Mihrabch/Cyclistic-Bike-Share-Behavior-Analysis-and-Conversion-Strategy)
+- Behavior: Members ride consistently (commuting); casual riders peak on weekends
+- Usage: Casual riders take longer trips and cover greater distances
+- Seasonality: Peak usage in summer → highest conversion opportunity
+- Location: Casual riders cluster downtown and near Millennium Park
+- Fleet insight: Docked bikes show near-zero usage → operational inefficiency
+- Strategy: Target casual riders with summer campaigns and location-based promotions
+- `Python` `R` `Time-Series` `Segmentation` `Tableau`
 
 ---
 
