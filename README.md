@@ -5,8 +5,7 @@ PhD, Applied Mathematics · Texas Tech University
 
 Visiting Assistant Professor · Virginia Tech 
 
-Open to Remote / Hybrid roles
-> 💼 **Actively seeking Data Analytics / Data Scientist / ML Scientist / Data Engineer roles — Remote or Hybrid**
+> 💼 **Actively seeking Data Analytics / Data Scientist / ML Scientist / Data Engineer roles **
 
 ---
 
