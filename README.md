@@ -91,7 +91,7 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 ## 📄 Selected Publications
 
 1. **Chowdhury M.M., Ayon R.S., Hossain M.S.** ML & Data Augmentation for Diabetes Diagnosis on Imbalanced BRFSS. *Healthcare Analytics, Elsevier, 2024.*
-2. **1. **Chowdhury M.M. et al.** Fungal pathogen transmission dynamics in North American salamanders. *Ecological Modelling, Elsevier, 2025.**
+2. **1. **Chowdhury M.M. et al.** Granular insights: A wastewater-based machine learning approach for localized COVID-19 hospitalization forecasting, AI for ID Modeling, 2026**
 
 📚 [Full list on Google Scholar](https://scholar.google.com/citations?user=ZbVWu8wAAAAJ&hl=en)
 
