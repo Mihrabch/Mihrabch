@@ -31,7 +31,7 @@ I've done this at **440k+ record scale** using Python, R, and SQL — with hyper
 | **ML & Modeling** | Scikit-learn · XGBoost · TensorFlow/PyTorch · SMOTE/ENN · Random Forest · Voting Ensembles |
 | **Stats & Forecasting** | ARIMA · Spatial modeling · Time-series · Regression |
 | **Data Engineering** | Pandas · NumPy · ETL pipelines · MongoDB · Imbalanced-learn |
-| **Visualization** | ggplot2 · Tableau · Power BI · Matplotlib · Seaborn |
+| **Visualization** | ggplot2 · Tableau · Matplotlib · Seaborn |
 | **NLP / AI** | Hugging Face · BERT · LLM APIs |
 | **Cloud & HPC** | AWS (ML Specialty · Solutions Architect · Cloud Practitioner) · TTU HPC (SLURM) |
 
