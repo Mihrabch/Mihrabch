@@ -2,7 +2,7 @@
 
 **Data Scientist · Data Analytics · Machine Learning · Applied Mathematics **  
 PhD, Applied Mathematics · Texas Tech University
-Virginia Tech (Visiting Assistant Professor)  
+Visiting Assistant Professor · Virginia Tech 
 📍 Blacksburg, VA · Open to Remote / Hybrid roles
 > 💼 **Actively seeking Data Scientist / ML Scientist / Health Data Scientist roles — Remote or Hybrid**
 
